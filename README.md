@@ -1,2 +1,2 @@
 # webapp hello world
-New Hello World
+New Hello World App
